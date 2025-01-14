@@ -1,8 +1,7 @@
 # SiteTreeGen
 
-<br>
-A python tool to crawl and generate tree out of the site domain.
+A python tool generate tree structure out of the list of relative URLs.
 
-<br>
 **In progress...**
-![Construction in Progress](image.png)
+
+![In Progress](./assets/image.png)
